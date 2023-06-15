@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soto</string>
+    <string name="label_home_button">Masukkan Foto</string>
+    <string name="text_food_name">Nama Makanan</string>
+    <string name="text_food_description">Deskripsi</string>
+    <string name="text_restaurant_name">Rekomendasi Restoran</string>
+    <string name="text_home_app">Selamat Datang</string>
+    <string name="text_home_desc_app">Silahkan masukkan foto dari kamera atau galerimu.</string>
+</resources>
